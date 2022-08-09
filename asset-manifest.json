@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/github.io/SunirbanPortfolio/static/css/main.07074b0f.css",
+    "main.js": "/github.io/SunirbanPortfolio/static/js/main.072f6fbd.js",
+    "static/media/profile.jpg": "/github.io/SunirbanPortfolio/static/media/profile.499abf684dcf7311d5bb.jpg",
+    "static/media/chatapp.JPG": "/github.io/SunirbanPortfolio/static/media/chatapp.14907ec57f7ab6f2e9b4.JPG",
+    "static/media/ros.jpg": "/github.io/SunirbanPortfolio/static/media/ros.fd92089d2c8a26e3c5a6.jpg",
+    "static/media/MultiUser.JPG": "/github.io/SunirbanPortfolio/static/media/MultiUser.72c1f36deb22ba7358fe.JPG",
+    "static/media/react.png": "/github.io/SunirbanPortfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/mess.JPG": "/github.io/SunirbanPortfolio/static/media/mess.1f8d271fd4ead978872f.JPG",
+    "static/media/firebase.png": "/github.io/SunirbanPortfolio/static/media/firebase.61a155859c38f2421b75.png",
+    "static/media/mongoDB.png": "/github.io/SunirbanPortfolio/static/media/mongoDB.52f5dfcac1022407940a.png",
+    "static/media/html.png": "/github.io/SunirbanPortfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/github.io/SunirbanPortfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/github.io/SunirbanPortfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/github.io/SunirbanPortfolio/index.html",
+    "main.07074b0f.css.map": "/github.io/SunirbanPortfolio/static/css/main.07074b0f.css.map",
+    "main.072f6fbd.js.map": "/github.io/SunirbanPortfolio/static/js/main.072f6fbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07074b0f.css",
+    "static/js/main.072f6fbd.js"
+  ]
+}
